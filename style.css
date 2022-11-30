@@ -1023,23 +1023,22 @@ border-bottom:1px solid #919191;
     }
     .frente1,.frente2,.frente3,.frente4,.costas1,.costas2,.costas3,svg,.imgbolso, .imgfrente, .imgcostas, .bolso{
         position: absolute;
-        width: 360px;
-        height: 500px;
+        width: 300px;
+        height: 445px;
     }
     
     .imgfrente,.imgcostas{
-       width: 340px;
-       left: 10px;
+        width: 300px;
     }
     .imgcostas{
-        padding-left: 30px;
+        padding-left: 0px;
     }
 
    
     .switch__container2{
         display: flex;
         position: absolute;
-        left:140px;
+        left:90px;
         margin-top:550px;
         vertical-align: baseline;
         z-index: 13;
@@ -1074,7 +1073,7 @@ border-bottom:1px solid #919191;
     .cores,.coresb,.coresGE, .coresGI,.coresP, .coresVE, .coresVD,.coresBF,.coresBB{
             visibility: hidden;
             top:-110px;
-            width: 300px;
+            width: 197px;
             height: 450px;
             left:320px;
             z-index: 22;
@@ -1106,7 +1105,7 @@ border-bottom:1px solid #919191;
         border-top-right-radius: 10px;
         top: 35px;
         left: 0;
-        z-index: 22;
+        z-index: 19;
     }
     .botaoacabamento + label svg{
         visibility: visible;
@@ -1119,9 +1118,9 @@ border-bottom:1px solid #919191;
 
     .acabamentos{
     top:-110px;
-    width: 300px;
+    width: 200px;
     height: 450px;
-    z-index: 23;
+    z-index: 20;
     left: -10px;
     }
     .delete{
@@ -1187,15 +1186,15 @@ border-bottom:1px solid #919191;
 
     .social_masculino{ 
         position: absolute;
-        padding-left:30px;
+        padding-left:10px;
         padding-right: 0px;
         padding-bottom: 30px;
-        padding-top: 30px;
+        padding-top: 60px;
     }
     .cores, .coresb, .coresGE, .coresGI, .coresP, .coresVE, .coresVD, .coresBF, .coresBB {
         visibility: hidden;
         top: -110px;
-        width: 300px;
+        width: 197px;
         height: 450px;
         left: 115px;
         z-index: 22;
